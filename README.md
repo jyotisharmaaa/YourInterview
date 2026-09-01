@@ -1,7 +1,4 @@
 # AI Interview Coach
-
-AI Interview Coach is an Android application designed to help developers prepare for technical interviews through AI-powered mock interviews, voice-based interaction, personalized feedback, resume analysis, and an Android-specific question bank.
-
 ## Planned Tech Stack
 
 - Kotlin
