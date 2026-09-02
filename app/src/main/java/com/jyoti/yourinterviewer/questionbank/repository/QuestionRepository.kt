@@ -1,4 +1,7 @@
 package com.jyoti.yourinterviewer.questionbank.repository
 
-class QuestionRepository {
+import com.jyoti.yourinterviewer.questionbank.domain.Question
+
+interface QuestionRepository {
+    fun getQuestions(): List<Question>
 }
