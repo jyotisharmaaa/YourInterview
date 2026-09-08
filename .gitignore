@@ -16,6 +16,3 @@ local.properties
 # APKs
 *.apk
 *.aab
-
-# Android Studio
-.idea/
